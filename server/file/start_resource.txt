@@ -1,0 +1,1 @@
+{"action": "update_resource", "people": 100, "tree": 30, "food": 300, "stone": 10, "iron": 0, "oil": 0, "gold": 300}
